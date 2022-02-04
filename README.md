@@ -11,6 +11,7 @@
 
 ## Description
 
+To track daily PMDD symptoms by having an application that helps the user log multiple symptoms in a workout on a given day. This easy tracking system will aid the user to reach their PMDD mabagement goals more quickly
 
 ## Installation
 
