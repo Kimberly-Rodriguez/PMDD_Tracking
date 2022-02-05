@@ -11,8 +11,7 @@
 
 ## Description
 
-To track daily PMDD symptoms by having an application that helps the user log multiple symptoms in a workout on a given day. This easy tracking system will aid the user to reach their PMDD mabagement goals more quickly
-
+To track daily PMDD symptoms by having an application that helps the user log multiple symptoms in a workout on a given day. This easy tracking system will aid the user to reach their PMDD goals more quickly
 ## Installation
 
 * Clone the repo (please reference the links below).
@@ -25,7 +24,7 @@ git@github.com:Kimberly-Rodriguez/PMDD_Tracking.git
 
 
 The following image demonstrates the homepage's appearance and functionality:
-
+[image]() 
 
 ## Tools
 
