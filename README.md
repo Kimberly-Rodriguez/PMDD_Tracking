@@ -11,7 +11,7 @@
 
 ## Description
 
-To track daily PMDD symptoms that aid users to keep note of multiple symptoms on a given day. This easy tracking system will help user to reach their PMDD goals and support their journey. 
+To track daily PMDD symptoms that aid users to record multiple symptoms on a given day. This easy tracking system will help user to reach their PMDD goals and support their journey. 
 
 ## Installation
 
